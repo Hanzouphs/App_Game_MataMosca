@@ -14,7 +14,7 @@ if(nivel ==='normal') {
 } else if(nivel === 'dificil'){
 	// 1 para clickar
 	criaMoscaTempo = 1000
-} else if(nivel === chucknorris){
+} else if(nivel === 'chucknorris'){
 	// 750 milissegundos para clickar
 	criaMoscaTempo = 750
 }
